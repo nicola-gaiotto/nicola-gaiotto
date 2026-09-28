@@ -29,7 +29,7 @@ MATLAB · Simulink · Python · C · ROS 2 (Humble/Jazzy) · Gazebo · 20-sim ·
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/nicola-gaiotto-75829b251/) · nicola.gaiotto@aalto.fi
+[LinkedIn](https://www.linkedin.com/in/nicola-gaiotto/) · nicola.gaiotto@aalto.fi
 
 <!--
 **nicola-gaiotto/nicola-gaiotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
