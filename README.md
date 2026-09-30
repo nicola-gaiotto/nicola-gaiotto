@@ -26,7 +26,7 @@ to getting the software to run on real robots and machines.
 
 ## Tools
 
-MATLAB · Simulink · Python · C · ROS 2 (Humble/Jazzy) · Gazebo · 20-sim · AMPL / Gurobi · CODESYS (IEC 61131-3) · Linux · Git
+Python · C · MATLAB/Simulink · ROS 2 (Humble/Jazzy) · Gazebo · PyTorch · Gymnasium · 20-sim · CODESYS (IEC 61131-3) · Autodesk Inventor · AMPL/Gurobi
 
 ## Contact
 
