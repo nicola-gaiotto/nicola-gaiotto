@@ -23,6 +23,7 @@ to getting the software to run on real robots and machines.
 | [Production planning & scheduling DSS](https://github.com/nicola-gaiotto/production-planning-optimisation-ampl) | MILP planning chain (RRP → MPS → MRP), carbon pricing, Job Shop | AMPL, Gurobi, Python |
 | [PLC elevator control](https://github.com/nicola-gaiotto/plc-elevator-control-codesys) | IEC 61131-3, SFC, fault & emergency handling | CODESYS |
 | [SMA actuator cascade control](https://github.com/nicola-gaiotto/sma-actuator-cascade-control) | nonlinear modelling, loop shaping, cascade PID/PI | MATLAB, Simulink, Python |
+| [Pneumatic bar-bending machine](https://github.com/nicola-gaiotto/pneumatic-bending-machine) | sequence design (GRAFCET), cascade method, actuator sizing | Festo FluidSIM, Python |
 
 ## Tools
 
