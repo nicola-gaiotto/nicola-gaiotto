@@ -17,6 +17,8 @@ to getting the software to run on real robots and machines.
 
 | Project | Topics | Tools |
 |---|---|---|
+| [haptic-teleoperation-touch-franka](https://github.com/nicola-gaiotto/haptic-teleoperation-touch-franka) | Bilateral haptic teleoperation between a 3D Systems Geomagic Touch and a Franka Emika Panda through ROS 2 *(in progress)* | ROS 2 · Geomagic Touch · Franka Panda |
+| [turtlebot3-maze-navigation](https://github.com/nicola-gaiotto/turtlebot3-maze-navigation) | TurtleBot3 navigating a maze in Gazebo with LiDAR perception, A* replanning and pure-pursuit control | ROS 2 · Python · Gazebo |
 | [UR5 modelling & pick-and-place control](https://github.com/nicola-gaiotto/ur5-bond-graph-modeling-20sim) | 3-D bond graphs, flexible harmonic drives, gravity compensation | 20-sim, MATLAB |
 | [System identification & classification](https://github.com/nicola-gaiotto/leds-system-identification-and-classification) | LS estimation of ARX models, order selection, logistic regression | MATLAB |
 | [Bearing condition monitoring & RUL prognostics](https://github.com/nicola-gaiotto/bearing-condition-monitoring-rul) (B.Sc. thesis) | vibration analysis, health indicators, degradation models, remaining-useful-life estimation | MATLAB, Python |
